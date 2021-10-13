@@ -6,7 +6,7 @@
 I'm Software Developer currently lean towards Web Development with enthusiasm in Artificial Intelligence/Machine Learning.
 I've named my web stack as PDBP i.e. PostgreSql, Django, Bootstrap, Python.
 
-My goal is to be full stack developer and explore and learn other software technologies such as Cloud Computing, Mobile Develpment and many more.
+My goal is to be full stack developer,explore and learn other software technologies such as Cloud Computing, Mobile Develpment and many more.
 
 ## Toolbox 🧰🛠 
 
