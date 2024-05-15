@@ -1,4 +1,4 @@
-### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">..., I'm Lodyne!
+### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">..., I'm lod'Y'ne!
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/lodynemark?style=social)  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIxVNqfUy6oznqTM40uCFBQ?style=social) ![GitHub followers](https://img.shields.io/github/followers/lodyne?style=social)
